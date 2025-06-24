@@ -7,12 +7,6 @@ import SpotifySidebar from "./components/Sidebar";
 
 // Import Router Packages
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-
-// Import Pages
-import SearchPage from "./components/SearchPage";
-import LibraryPage from "./components/LibraryPage";
-// import NotFoundPage from "./pages/NotFoundPage";
-// import SpotifyInterface from "./components/SpotifyInterface";
 import PlaylistDetail from "./components/PlaylistDetail";
 import SongCard from "./components/SongCard";
 import MusicPlayerInterface from "./components/MusicPlayerInterface";
